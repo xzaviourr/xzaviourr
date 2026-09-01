@@ -19,12 +19,16 @@ pipelines, MCP tools, and LLM evaluations to scalable .NET APIs, React
 experiences, Azure infrastructure, and observability. I enjoy turning ambiguous
 AI ideas into measurable, reliable products.
 
-## Selected impact
+## Impact at a glance
 
-- 🚀 Built AI insight experiences that have served **7,500+ API requests**
-- ⚡ Reduced API response times by **50%** through a Synapse-to-Kusto migration
-- 🏆 Won the **Microsoft Security Hackathon 2025** for AI-generated customer reports
-- 🎓 Teach engineers and students how to apply AI and cloud systems effectively
+| Area | Evidence |
+|---|---|
+| 🚀 **Production development** | Built full-stack AI insight experiences serving **7,500+ API requests** and reduced API response times by **50%** through a Synapse-to-Kusto migration |
+| 🤖 **Agentic AI engineering** | Designed multi-agent systems for screenplay-to-video generation and market intelligence using LangGraph, AutoGen, MCP, context engineering, and automated evaluation loops |
+| 🔬 **Systems research** | Developed a Kubernetes device plugin and scheduler extensions for independent GPU memory and compute allocation; profiled HPC and ML workloads to improve utilization |
+| 🏆 **Innovation** | Won the **Microsoft Security Hackathon 2025** for an AI-powered customer reporting experience |
+| 🎓 **Technical leadership** | Instruct Microsoft engineers on applied AI, led AI training for customer interactions, taught cloud computing to **40+ students**, and mentored developers |
+| 🛠️ **Applied problem-solving** | Built projects across generative media, financial intelligence, developer education, conversational AI, cybersecurity, healthcare, and algorithmic systems |
 
 ## What I build
 
