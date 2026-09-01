@@ -6,8 +6,9 @@
 
 **Software Engineer at Microsoft · M.Tech in Computer Science, IIT Bombay**
 
-[LinkedIn](https://www.linkedin.com/in/anshul-sanghi/) ·
-[Email](mailto:anshul.sanghi.personal@gmail.com)
+💼 [LinkedIn](https://www.linkedin.com/in/anshul-sanghi/) ·
+✉️ [Email](mailto:anshul.sanghi.personal@gmail.com) ·
+✍️ [Medium](https://medium.com/@anshul.sanghi)
 
 </div>
 
@@ -82,6 +83,6 @@ I enjoy sketching, painting, origami, basketball, and learning French.
 
 **Interested in agentic AI, reliable LLM systems, or cloud engineering?**
 
-[Let's connect on LinkedIn](https://www.linkedin.com/in/anshul-sanghi/)
+💬 [Let's connect on LinkedIn](https://www.linkedin.com/in/anshul-sanghi/)
 
 </div>
