@@ -6,9 +6,11 @@
 
 **Software Engineer at Microsoft · M.Tech in Computer Science, IIT Bombay**
 
-💼 [LinkedIn](https://www.linkedin.com/in/anshul-sanghi/) ·
-✉️ [Email](mailto:anshul.sanghi.personal@gmail.com) ·
-✍️ [Medium](https://medium.com/@anshul.sanghi)
+<p>
+  <a href="https://www.linkedin.com/in/anshul-sanghi/"><img src="assets/linked-in-alt.svg" alt="LinkedIn" title="LinkedIn" height="30" width="30"></a>&nbsp;&nbsp;
+  <a href="mailto:anshul.sanghi.personal@gmail.com"><img src="assets/gmail.svg" alt="Email" title="Email" height="30" width="30"></a>&nbsp;&nbsp;
+  <a href="https://medium.com/@anshul.sanghi"><img src="assets/medium.svg" alt="Medium" title="Medium" height="30" width="30"></a>
+</p>
 
 </div>
 
@@ -78,11 +80,3 @@ workloads, and extended scheduler filtering to improve resource utilization.
 ## Beyond engineering
 
 I enjoy sketching, painting, origami, basketball, and learning French.
-
-<div align="center">
-
-**Interested in agentic AI, reliable LLM systems, or cloud engineering?**
-
-💬 [Let's connect on LinkedIn](https://www.linkedin.com/in/anshul-sanghi/)
-
-</div>
