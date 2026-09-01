@@ -1,40 +1,86 @@
-<p align="center"><a href="#"><img width="80%" alt="Hello, I'm Kirti. I do open source!" src="assets\name.jpg" /></a></p>
+<div align="center">
 
-  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7146A&center=true&width=435&lines=Born+in+Chattisgarh;5%2B+years+of+coding+experience;Part-time+freelancer;)](https://git.io/typing-svg)
+# Hi, I'm Anshul Sanghi 👋
 
+### AI Systems Engineer building production-grade agents, evaluation loops, and full-stack AI products
 
-<!-- <h2 align="center"> 🙋🏻‍♂️Connect with me</h3> -->
-<p align="center">
-<a href="https://www.linkedin.com/in/anshul-sanghi/" target="blank"><img align="center" src="assets/linked-in-alt.svg" alt="anshul-sanghi" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/21164623/anshul-sanghi" target="blank"><img align="center" src="assets/stack-overflow.svg" alt="anshul-sanghi" height="30" width="40" /></a>
-<a href="https://medium.com/@anshul.sanghi" target="blank"><img align="center" src="assets/medium.svg" alt="anshul.sanghi" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/anshul_sanghi" target="blank"><img align="center" src="assets/codechef.svg" alt="anshul_sanghi" height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/anshul.sanghi.personal" target="blank"><img align="center" src="assets/codeforces.svg" alt="anshul.sanghi.personal" height="30" width="40" /></a>
-<a href="https://leetcode.com/xzaviourr/" target="blank"><img align="center" src="assets/leet-code.svg" alt="xzaviourr" height="30" width="40" /></a>
+**Software Engineer at Microsoft · M.Tech in Computer Science, IIT Bombay**
+
+<p>
+  <a href="https://www.linkedin.com/in/anshul-sanghi/"><img src="assets/linked-in-alt.svg" alt="LinkedIn" title="LinkedIn" height="30" width="30"></a>&nbsp;&nbsp;
+  <a href="mailto:anshul.sanghi.personal@gmail.com"><img src="assets/gmail.svg" alt="Email" title="Email" height="30" width="30"></a>&nbsp;&nbsp;
+  <a href="https://medium.com/@anshul.sanghi"><img src="assets/medium.svg" alt="Medium" title="Medium" height="30" width="30"></a>
 </p>
 
-<br/>
+</div>
 
-<details open> 
-  <summary><h2>📊 Github Stats and Activity</h2></summary>
+I work at the intersection of **agentic AI and software systems**—from context
+pipelines, MCP tools, and LLM evaluations to scalable .NET APIs, React
+experiences, Azure infrastructure, and observability. I enjoy turning ambiguous
+AI ideas into measurable, reliable products.
 
-  <div align="center"><h3>🔥 Streak Stats</h3>
+## Impact at a glance
 
+| Area | Evidence |
+|---|---|
+| 🚀 **Production development** | Built full-stack AI insight experiences serving **7,500+ API requests** and reduced API response times by **50%** through a Synapse-to-Kusto migration |
+| 🤖 **Agentic AI engineering** | Designed multi-agent systems for screenplay-to-video generation and market intelligence using LangGraph, AutoGen, MCP, context engineering, and automated evaluation loops |
+| 🔬 **Systems research** | Developed a Kubernetes device plugin and scheduler extensions for independent GPU memory and compute allocation; profiled HPC and ML workloads to improve utilization |
+| 🏆 **Innovation** | Won the **Microsoft Security Hackathon 2025** for an AI-powered customer reporting experience |
+| 🎓 **Technical leadership** | Instruct Microsoft engineers on applied AI, led AI training for customer interactions, taught cloud computing to **40+ students**, and mentored developers |
+| 🛠️ **Applied problem-solving** | Built projects across generative media, financial intelligence, developer education, conversational AI, cybersecurity, healthcare, and algorithmic systems |
 
-  
-  [![GitHub Streak](https://streak-stats.demolab.com?user=xzaviourr&theme=radical)](https://git.io/streak-stats)
+## What I build
 
+| | Focus | Technologies and practices |
+|---|---|---|
+| 🤖 | **Agentic AI** | LangGraph, AutoGen, MCP, prompt engineering, context engineering |
+| 🧪 | **AI quality** | LLM evaluations, observability, self-validation, regeneration loops |
+| 🧱 | **Product engineering** | ASP.NET Core, React, C#, Python, REST APIs |
+| ☁️ | **Cloud and systems** | Azure, Kubernetes, Docker, Kusto/KQL, GPU virtualization |
 
-  <h3>💻 GitHub Profile Stats</h3>
+## Featured work
 
-  <a href="https://github.com/xzaviourr"><img alt="Xzaviourr's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=xzaviourr&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="192px"/></a>
+### 🎬 Agentic Movie Generation Pipeline
 
-  <a href="https://github.com/xzaviourr"><img alt="Xzaviourr's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xzaviourr&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide=Jupyter%20Notebook" height="192px"/></a>
-  <br/>
+A LangGraph-based pipeline that transforms screenplays into generated video
+through coordinated character, location, shot-planning, and camera agents.
+I built telemetry-driven prompt optimization and automated validation and
+regeneration loops to improve visual consistency and output quality.
 
-  <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
-  
-  <!-- https://github.com/ashutosh00710/github-readme-activity-graph -->
+### 📈 Multi-Agent Market Intelligence Platform
 
-  <a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="DenverCoder1's Activity Graph" src="https://github-readme-activity-graph.cyclic.app/graph/?username=Xzaviourr&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
+Persona-driven agents mirror hedge-fund roles, combine market data with news
+and community intelligence, debate signals, and expose their decisions through
+an interactive trace UI. The platform supports both long-term and intraday
+research workflows.
 
+### ⚙️ GPU Resource Management for Kubernetes
+
+My M.Tech research explored flexible GPU allocation through independent memory
+and compute control. I developed a Kubernetes device plugin, profiled HPC and ML
+workloads, and extended scheduler filtering to improve resource utilization.
+
+## Selected open-source projects
+
+- [**Learning Framework**](https://github.com/xzaviourr/LearningFramework) —
+  dependency-aware educational projects with automated test management and
+  visual progress tracking
+- [**Conversational Agent**](https://github.com/xzaviourr/Agents) —
+  an Azure AI and LangChain assistant with task, database, speech, and system tools
+- [**Pacman Wars**](https://github.com/xzaviourr/PacmanWars) —
+  a community coding arena where contributors build bots and compete through algorithms
+- [**Honeypot**](https://github.com/xzaviourr/Honeypot) —
+  a containerized virtual file system for detecting and studying intruders
+
+## Teaching and community
+
+- AI instructor for Microsoft engineers across the security domain
+- Lead trainer on applying AI to customer interactions
+- Cloud computing workshop instructor for 40+ students
+- Former teaching assistant for operating systems, software systems, and programming at IIT Bombay
+- Mentor to students in programming, AI tools, and project development
+
+## Beyond engineering
+
+I enjoy sketching, painting, origami, basketball, and learning French.
