@@ -7,6 +7,7 @@
 **Software Engineer at Microsoft · M.Tech in Computer Science, IIT Bombay**
 
 <p>
+  <a href="https://www.anshulsanghi.in">Portfolio</a>&nbsp;&nbsp;·&nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/anshul-sanghi/"><img src="assets/linked-in-alt.svg" alt="LinkedIn" title="LinkedIn" height="30" width="30"></a>&nbsp;&nbsp;
   <a href="mailto:anshul.sanghi.personal@gmail.com"><img src="assets/gmail.svg" alt="Email" title="Email" height="30" width="30"></a>&nbsp;&nbsp;
   <a href="https://medium.com/@anshul.sanghi"><img src="assets/medium.svg" alt="Medium" title="Medium" height="30" width="30"></a>
@@ -41,6 +42,10 @@ AI ideas into measurable, reliable products.
 
 ## Featured work
 
+The public repositories and case studies below are the best places to inspect
+my work. Projects built in professional settings are identified explicitly when
+their implementation cannot be shared.
+
 ### 🎬 Agentic Movie Generation Pipeline
 
 A LangGraph-based pipeline that transforms screenplays into generated video
@@ -48,30 +53,36 @@ through coordinated character, location, shot-planning, and camera agents.
 I built telemetry-driven prompt optimization and automated validation and
 regeneration loops to improve visual consistency and output quality.
 
-### 📈 Multi-Agent Market Intelligence Platform
+*Professional project; implementation is private.*
+
+### 📈 [Multi-Agent Market Intelligence Platform](https://github.com/xzaviourr/multi-agent-trading-platform)
 
 Persona-driven agents mirror hedge-fund roles, combine market data with news
 and community intelligence, debate signals, and expose their decisions through
 an interactive trace UI. The platform supports both long-term and intraday
 research workflows.
 
-### ⚙️ GPU Resource Management for Kubernetes
+### ⚙️ [GPU Resource Management for Kubernetes](https://github.com/xzaviourr/kubernetes-ml-function-scheduler)
 
 My M.Tech research explored flexible GPU allocation through independent memory
 and compute control. I developed a Kubernetes device plugin, profiled HPC and ML
 workloads, and extended scheduler filtering to improve resource utilization.
+The linked repository contains the scheduling and simulation work; the
+[device-plugin fork](https://github.com/xzaviourr/gpu-resource-device-plugin)
+preserves the related systems changes and upstream attribution.
 
 ## Selected open-source projects
 
-- [**Learning Framework**](https://github.com/xzaviourr/LearningFramework) —
+- [**Learning Framework**](https://github.com/xzaviourr/dependency-aware-learning-framework) —
   dependency-aware educational projects with automated test management and
   visual progress tracking
-- [**Conversational Agent**](https://github.com/xzaviourr/Agents) —
+- [**Conversational Agent**](https://github.com/xzaviourr/azure-ai-desktop-agent) —
   an Azure AI and LangChain assistant with task, database, speech, and system tools
 - [**Pacman Wars**](https://github.com/xzaviourr/PacmanWars) —
   a community coding arena where contributors build bots and compete through algorithms
-- [**Honeypot**](https://github.com/xzaviourr/Honeypot) —
-  a containerized virtual file system for detecting and studying intruders
+- [**Airbnb Profile Website Generator**](https://github.com/xzaviourr/airbnb-profile-website-generator) —
+  a tested TypeScript pipeline that turns authorized host profiles into
+  structured portfolio data and personalized static websites
 
 ## Teaching and community
 
