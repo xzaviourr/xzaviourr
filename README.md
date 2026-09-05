@@ -7,7 +7,7 @@
 **Software Engineer at Microsoft · M.Tech in Computer Science, IIT Bombay**
 
 <p>
-  <a href="https://www.anshulsanghi.in">Portfolio</a>&nbsp;&nbsp;·&nbsp;&nbsp;
+  <a href="https://www.anshulsanghi.in"><img src="assets/portfolio.svg" alt="Anshul Sanghi's personal website" title="Personal website" height="30" width="41"></a>&nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/anshul-sanghi/"><img src="assets/linked-in-alt.svg" alt="LinkedIn" title="LinkedIn" height="30" width="30"></a>&nbsp;&nbsp;
   <a href="mailto:anshul.sanghi.personal@gmail.com"><img src="assets/gmail.svg" alt="Email" title="Email" height="30" width="30"></a>&nbsp;&nbsp;
   <a href="https://medium.com/@anshul.sanghi"><img src="assets/medium.svg" alt="Medium" title="Medium" height="30" width="30"></a>
@@ -73,6 +73,10 @@ preserves the related systems changes and upstream attribution.
 
 ## Selected open-source projects
 
+- [**TrafficFolio**](https://github.com/xzaviourr/trafficfolio) —
+  a fork-to-own GitHub traffic analytics dashboard that preserves history beyond
+  GitHub's 14-day window and refreshes a README-native SVG daily with Python and
+  pinned GitHub Actions
 - [**Learning Framework**](https://github.com/xzaviourr/dependency-aware-learning-framework) —
   dependency-aware educational projects with automated test management and
   visual progress tracking
